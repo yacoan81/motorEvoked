@@ -1,4 +1,4 @@
-# Master Thesis UHasselt - ML approach and Calibration of Motor Evoked potentials latencies.
+# Master Thesis UHasselt - ML approach and Calibration of Motor Evoked potential latencies.
 
 Background: Evoked potentials (EPs) are useful measures to predict the developmentof clinical disabilities of MS patients. They are used to monitor disease progressionof multiple sclerosis patients. Previous studies have used several machine learningalgorithms to prove this relationship, but until now the calibration properties have notbeen investigated. This research performs a machine learning analysis on latencies ofmotor EP and investigates how well the probabilistic outputs of the model are calibrated. <br/> <br/>
 Methods: In this study, motor EP data from 520 multiple sclerosis patients was ana-lyzed. The modeling was performed using logistic regression, random forest, gradientboosted decision trees, adaptative boosting and support vector machines. Probabilistic outcomes were calibrated by using Platt Scaling and Isotonic regression. <br/> <br/>
